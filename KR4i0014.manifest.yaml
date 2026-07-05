@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4i0014_000.yaml, hash: 'sha256:92a10e43c8a1c06c73a50fc7ff4107f687f23dddc817945dd87befc12cb23a8d'}
+  - {seq: 0, filename: KR4i0014_000.yaml, hash: 'sha256:bee57cb7589ab5489da78eb22c4bfc3dca30a94de20275c37158817555185c2f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0014_000.markers.yaml, hash: 'sha256:232890db1d7dfc5cc49622133e1d4c2c153ee62d0b690e5a4ffe3dbee4967e3b'}
+  - {seq: 0, role: markers, filename: assets/KR4i0014_000.markers.yaml, hash: 'sha256:95401ed2f3f1b25c20650bf68a30fef2c581befc7d88ee6be1ec65c0002b249c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,4 @@ table_of_contents:
   label: 彦周詩話
   type: section
   level: 1
-hash: sha256:f2cc13f64cc27c00eae5db9002e160cf4fb7c442fcf9e7d159ed88f427bf52e8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:dbe4c09c6f4a2f5016213592cd80d24ace27ffd8069644e8e5ea88f75e0b7040
