@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR4i0014_000.yaml, hash: 'sha256:7a850b915979d155956e3b5181e1b2eef9f2f21bc676ae743136217ad0adad32'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0014_000.markers.yaml, hash: 'sha256:dab17ce576c26d496c383c317b811a1a18245c1fdd49702f2417593ac911a79f'}
+  - {seq: 0, role: markers, filename: assets/KR4i0014_000.markers.yaml, hash: 'sha256:7bb10467015f032cb52c4cce7f5eceda4e28c863b5c56bb031b4a5f8103e2ab6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,7 @@ table_of_contents:
   label: 彦周詩話
   type: section
   level: 1
-hash: sha256:f83d5d7a7b5491f426fe6ce54de2bd7247a03fb3dc2baf77cb8b2345dcf60d01
+hash: sha256:5b45d11c02d54dc178ff92bbf5f79d72b4f37e0b90f6ea321e037ae5249e08f3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

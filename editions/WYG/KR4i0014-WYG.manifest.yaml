@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR4i0014_000-WYG.yaml, hash: 'sha256:60b4cdc747f959ab1271ac4788959b5c7a64bc66106374f921df0c56cfbc9606'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0014_000-WYG.markers.yaml, hash: 'sha256:02bb750a9e12be19e6f6e53006b9e65bf9369a90d8eb3c5749348ebe8bb5462e'}
+  - {seq: 0, role: markers, filename: assets/KR4i0014_000-WYG.markers.yaml, hash: 'sha256:d6ed1e5a62dcef463371788cb23097c61bb008993d2e4de73b10789c82c92ee7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 彦周詩話
   type: section
   level: 1
-hash: sha256:386162177681d53373a8e0fa1487d0031c81327983df0c740f2b3e37b4102a70
+hash: sha256:a0bf2c1e26682e5fd5c201cbe5273d60acb2d897c780c751e5125ab022664248
